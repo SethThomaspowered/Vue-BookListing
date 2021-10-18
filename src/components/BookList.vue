@@ -9,7 +9,7 @@
     </div>
 </template>
 <script>
-import BookForm from './BookForm.vue';
+import BookForm from './BookForm';
 import BookItem from './BookItem';
 export default {
     name: "BookList",
